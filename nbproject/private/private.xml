@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/flpm/GlobalSession.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/AdminPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/CommunicationPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/controller/TaskDependencyController.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/ManagerPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/services/LoginService.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/Timeline.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/MyAccountPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/entity/MemberProjectPK.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/services/CommunicationService.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/controller/BudgetController.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/flpm/MainWindow.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/TaskPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/entity/Budget.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/controller/TaskController.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/TaskDependencyPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/StudentPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/UsersPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/CommunicationFrame.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/controller/CommunicationController.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/models/TaskDependencyModel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/services/ProjectService.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/entity/Communication.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/controller/LoginController.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/entity/Users.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/entity/TaskDependency.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/ProjectPanel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/models/CommunicationModel.java</file>
+            <file>file:/Users/niki/NetBeansProjects/FLPM/src/view/ClientPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
